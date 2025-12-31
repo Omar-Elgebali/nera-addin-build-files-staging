@@ -21,7 +21,7 @@
     </Sets>
   </Requirements>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://omar-elgebali.github.io/nera-addin-build-files-staging/taskpane.html"/>
+    <SourceLocation DefaultValue="https://omar-elgebali.github.io/nera-addin-build-files-staging/taskpane.html?server=local"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -78,7 +78,7 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://omar-elgebali.github.io/nera-addin-build-files-staging/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://omar-elgebali.github.io/nera-addin-build-files-staging/taskpane.html?server=local"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
